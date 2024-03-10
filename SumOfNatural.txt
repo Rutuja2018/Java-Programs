@@ -1,0 +1,21 @@
+import java.io.*;
+import java.util.*;
+  
+  class SumOfNatural
+{
+ int n = 25;
+int sum;
+ 
+ for(int i=0; i<=n; i++)
+{
+ {
+    sum +=i;
+    System.out.println(sum);
+
+}
+}
+
+
+
+
+}
